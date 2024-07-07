@@ -1,0 +1,9 @@
+../Testcases/TestCase2/F2//xar.txt
+../Testcases/TestCase2/F2//xbk.txt
+../Testcases/TestCase2/F2//xbb.txt
+../Testcases/TestCase2/F2//xaz.txt
+../Testcases/TestCase2/F2//xat.txt
+../Testcases/TestCase2/F2//xas.txt
+../Testcases/TestCase2/F2//ClientInput/client1.txt
+../Testcases/TestCase2/F2//xbn.txt
+../Testcases/TestCase2/F2//xav.txt
